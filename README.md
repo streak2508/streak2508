@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Shukla</h1>
-<h3 align="center">A begineer in the field of DevOps from India</h3>
-
+<h3 align="center">A beginner in the field of DevOps from India</h3>
+<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 - 🌱 I’m currently learning **Kubernetes, Jenkins, Docker, Prometheus, Grafana, AWS, Linux, Git**
 
 - 📫 How to reach me **sakshamshukla0825@gmail.com**
